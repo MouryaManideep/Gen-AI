@@ -1,0 +1,71 @@
+25-06-2026
+
+1st hr
+history of AI
+	Allen tury
+	etc...
+
+speech recognition : HMM (Hidden Markov Models)
+planning:
+decision theory
+ultimate theory
+vast improvements in robotics
+computer vision
+ML
+ai systems
+Deep Learning
+
+recent Ai
+heavy use of :
+	probability theory, decision theory, statistics, logic (fuzzy, modal-necessity, possibility, temporal-time)
+
+2nd hr
+AI vs Conventional Computing
+Human vs Artificial Intelligence
+comparison of supercomputer and the human brain
+categories of AI System - system think like human, system think rationally
+
+26-06-2026
+1hr
+-More formal definition of AI : AI is a branch of computer science which is concerned with the study and creation of computer systems exhibit intelligence.
+-Characteristics of ai systems : 
+*learn new concepts and tasks
+*reason and draw useful conclusions about the world around us
+*remember complicated interrelated facts and draw conclusions from them (inference)
+*understand a natural language or perceive and comprehend a visual scene
+*look through cameras and see what is there (vision), to move themselves and objects around in the real world (robotics).
+*plan sequence of actions to complete goal.
+*offer advice based on rules and situations
+
+
+		       parent disciplines of AI
+
+	philosophy	Maths	    psychology	   computer Science
+	   |		  |	        |		   |
+			        AI
+	
+	game 		theorem	    language &		Robotics
+	playing		proving	  image understand    	&Navigation
+
+Tech-Subareas of AI
+*Knowledge representation
+*common sense reasoning dealing with uncertainty & decision making
+*Learning models
+What is Intelligence??
+--the ability to learn or understand or to deal with new or trying situations : reason also : the skilled use of reason
+
+pioneers of AI
+*John McCarthy - NOn monotic reasoning
+*Marvin misky - 
+*Arthur Samuel - ai for game playing
+*Allen newell(CMU) - 
+etc. .. .  .
+
+-Turing test
+
+
+
+
+
+
+
