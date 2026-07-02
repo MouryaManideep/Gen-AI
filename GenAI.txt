@@ -119,8 +119,7 @@ AI Classification By learning (ML):
 
 02-07-2026
 1hr
-ML-basics: EDA, 
-EDA:
+ML-basics: EDA, Data cleaning, Data preprocessing, Feature Engineering, Feature Selection
 1-Problem definition
 2-Data collection
 3-Exploratary Data Analysis (EDA)
@@ -132,4 +131,37 @@ EDA:
 9-Model evaluation
 10-Hyperparameter Tuning
 11-Model/validation
+
+EDA:
+1-Viewing Data
+2-Summary Statistics
+3-Value Counts
+4-Missed Value Analysis
+5-Visualizations
+6-Target variable exploration
+
+2hr
+Data cleaning:
+handle missing values
+remove duplicates
+Fix data types
+Handle inconsistent Categories
+Detect and handle outliers
+Fix Logic or Domain Error
+
+Data preprocessing:
+Encoding
+Feature Transformation
+Feature Scaling
+
+Feature Selection:
+Filter Methods
+Embedded Methods
+
+
+
+
+
+
+
 
