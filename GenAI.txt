@@ -55,7 +55,7 @@ What is Intelligence??
 --the ability to learn or understand or to deal with new or trying situations : reason also : the skilled use of reason
 
 pioneers of AI
-*John McCarthy - NOn monotic reasoning
+*John McCarthy - Non monotic reasoning
 *Marvin misky - 
 *Arthur Samuel - ai for game playing
 *Allen newell(CMU) - 
@@ -63,9 +63,73 @@ etc. .. .  .
 
 -Turing test
 
+29-06-2026 - absent:
+Agent, Rationality, Autonomy, task env
+properties of task env:
+1. fully or partially observable
+2. single agent vs multi agent
+3. deterministic vs stochastic
+4. Episodic vs sequential
+5. discrete vs sequential
+6. known vs unknown
 
 
+30-062026
+1hr:
+kinds of agents:
+1. Simple reflex agents - this work only after correct decision on the basis of current percept.
+2. Model-based reflex agents - ex- How the world works requires a model of the world and is there before a model-based agent.
+3. Goal-based agent - 
+4. utility-based agents - it has to model and keep track of it's env, which are tasks which involve perception, representation, reasoning and learning.
 
+task carried by components of learning agent:
+learning element:
+performance element
+critic: tells learning agent how well the agent is doing using performance standard.
+problem generator: Suggests actions which lead to new and informative experiences.
 
+2hr:
+Types of AI:
+- By capability
+- By Functionality
+- By Approach
+- By learning (ML)
 
+AI By capability:
+Artificial Narrow Intelligence (ANI) - AI designed to perform one specific task exceptionally well.
+Artificial General Intelligence (AGI) - AI capable of any intellectual task that a human perform (Under research).
+Artificial Super Intelligence (ASI) - AI that exceeds human intelligence in all domains (Hypothetical(Theory)).
+
+AI By Functionality:
+-Reactive Machines
+-Limited Memory
+-Theory of mind
+-Self-Aware AI
+
+AI By Approach:
+- Symbolic AI - Rule based AI, knowledge based, Expert Systems - works using facts, rules, logic, knowledge base, inference engineer - applications medical diagnosis, banking rules, tax systems, legal systems
+- Hybrid AI - it is approach that combines two or more ai techniques to build system that acts more accurate , reliable etc. (Hybrid AI = rule based ai + learning based AI)
+
+AI Classification By learning (ML):
+- Supervised - labeled
+- Unsupervised - Unlabeled
+- Semi-Supervised - small labeled + large labeled
+- Self-supervised - Data creates labels
+- Reinforcement - Reward and penalty
+
+02-07-2026
+1hr
+ML-basics: EDA, 
+EDA:
+1-Problem definition
+2-Data collection
+3-Exploratary Data Analysis (EDA)
+4-Data Preprocessing/cleaning
+5-Feature Selection & Engineer
+6-Split the dataset
+7-Model Selection
+8-Model Training
+9-Model evaluation
+10-Hyperparameter Tuning
+11-Model/validation
 
